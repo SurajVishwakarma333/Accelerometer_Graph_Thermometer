@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress.xml.flat",
+        "source": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corner.xml.flat",
+        "source": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\src\\main\\res\\drawable\\corner.xml"
+    },
+    {
+        "merged": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_seekbar.xml.flat",
+        "source": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\src\\main\\res\\drawable\\custom_seekbar.xml"
+    },
+    {
+        "merged": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textview_border.xml.flat",
+        "source": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\src\\main\\res\\drawable\\textview_border.xml"
+    },
+    {
+        "merged": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scale.jpg.flat",
+        "source": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\src\\main\\res\\drawable\\scale.jpg"
+    },
+    {
+        "merged": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_thermometer.xml.flat",
+        "source": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\src\\main\\res\\layout\\activity_thermometer.xml"
+    },
+    {
+        "merged": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_design.xml.flat",
+        "source": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\src\\main\\res\\drawable\\button_design.xml"
+    },
+    {
+        "merged": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\build\\intermediates\\res\\merged\\debug\\font_segfont.ttf.flat",
+        "source": "D:\\SurajAndroidStudio\\Accelerometer-Graph-Thermometer\\app\\src\\main\\res\\font\\segfont.ttf"
+    }
+]
